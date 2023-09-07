@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hoperablack
 - 👀 I’m interested in ...Data Analyst 
-- 🌱 I’m currently learning ... SQL, Python 
+- 🌱 I’m currently learning ... Excel, PowerBI, Tablue,SQL, Python 
 - 💞️ I’m looking to collaborate on ...Data Analyst 
 - 📫 How to reach me ... opehopera432@gmail.com
 
